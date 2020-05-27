@@ -33,6 +33,10 @@ If you have dependency version issue use [vnev](https://docs.python.org/3/tutori
     ```change content_path ```variable to path of your content image<br>
     ```style_path variable``` to path of your style image<br>
  5) Run jupyter notebook or ``` python3 neural_style_transfer.py ``` in the shell.<br> 
+ 
+## Future work
+- [x] Deploying NST model as a Django webapp. <br>
+visit this link for webapp
 
 ## Acknowledgments
 [https://github.com/Shashi456/Neural-Style](https://github.com/Shashi456/Neural-Style)<br>
