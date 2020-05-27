@@ -18,7 +18,7 @@ If you have dependency version issue use [vnev](https://docs.python.org/3/tutori
 1) Clone or download this repo.<br>
 2) Make the vnev (recommended) <br>
     ``` virtualenv mypython ```
-3) cd to the directory where ```[requirements.txt](requirements.txt) ``` is located<br>
+3) cd to the directory where [requirements.txt](requirements.txt) is located<br>
    activate your virtualenv<br>
    ``` mypthon\Scripts\activate ```<br>
    then<br>
