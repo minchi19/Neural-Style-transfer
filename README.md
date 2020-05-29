@@ -1,12 +1,20 @@
 # Neural-Style-transfer implementation in TF - 2.0
 # Overview
-### For detailed explanation please visit this blog
+Have you ever wondered how smartphones camera filters work?<br>
+How do Snapchat or Instagram filters work?<br>
+Do you want to paint like Picasso?<br>
+<br>
+If yes then you should know about The Neural Style Transfer Algorithm.<br><br>
+**Style Transfer can be defined as the process of reconstruction of an image in the style of another image.**<br>
+
+### For detailed explanation please visit [this](https://neuralnetwork.codes/neural-style-transfer-using-tf-2-0/) blog
 
 Python Tensorflow implementation of ["A Neural Algorithm of Artistic Style,"](https://arxiv.org/pdf/1508.06576.pdf) Gatys et al.
 
+![Result](https://github.com/minchi19/Neural-Style-transfer/blob/master/results/results/foo%20(4).png)
 ## Dependices
 
-Python > 3.5
+Python > 3.5 <br>
 [Numpy](http://www.numpy.org/)<br>
 [PIL](https://pypi.org/project/Pillow/2.2.2/)<br>
 [Matplotlib](https://matplotlib.org/)<br>
@@ -37,10 +45,13 @@ If you have dependency version issue use [vnev](https://docs.python.org/3/tutori
  
 ## Results
     
-
+![](https://github.com/minchi19/Neural-Style-transfer/blob/master/results/results/monolisa%2Babstract.JPG)
+Iterations - 1000 content_weight=1e-1,style_weight=1e2
+![nstresult](https://github.com/minchi19/Neural-Style-transfer/blob/master/results/results/result5.png)
+Iterations - 500 content_weight=1e-1,style_weight=1e2
 ## Future work
 - [x] Deploying NST model as a Django webapp. <br>
-visit this link for webapp
+visit [this](https://github.com/minchi19/neural-style-transfer-webapp) link for webapp
 
 ## Acknowledgments
 [https://github.com/Shashi456/Neural-Style](https://github.com/Shashi456/Neural-Style)<br>
