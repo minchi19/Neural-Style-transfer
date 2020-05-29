@@ -6,6 +6,7 @@ Python Tensorflow implementation of ["A Neural Algorithm of Artistic Style,"](ht
 
 ## Dependices
 
+Python > 3.5
 [Numpy](http://www.numpy.org/)<br>
 [PIL](https://pypi.org/project/Pillow/2.2.2/)<br>
 [Matplotlib](https://matplotlib.org/)<br>
@@ -34,6 +35,9 @@ If you have dependency version issue use [vnev](https://docs.python.org/3/tutori
     ```style_path variable``` to path of your style image<br>
  5) Run jupyter notebook or ``` python3 neural_style_transfer.py ``` in the shell.<br> 
  
+## Results
+    
+
 ## Future work
 - [x] Deploying NST model as a Django webapp. <br>
 visit this link for webapp
